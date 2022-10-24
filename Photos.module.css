@@ -1,0 +1,15 @@
+
+.imageContainer img{
+    width:40%;
+    border-radius:8px;
+}
+.container{
+    margin: 0 auto;
+    
+
+}
+.container p{
+margin-top: 0;
+font-size: 18px;
+font-weight: 600;
+}
